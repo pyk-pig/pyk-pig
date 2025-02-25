@@ -1,0 +1,11 @@
+1.函数
+2.引入头文件
+3.命名空间
+4.cout<<"Hello,world!<<endl;
+5.int cheeses
+6.cheeses = 32
+7.cin>>cheeses
+8.cout<<"We have "<<cheeses<<" varieties of cheese";
+9.名称，类型，参数
+10.无返回值
+11.未使用命名空间||using namespace std;std::cout
